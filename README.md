@@ -1,7 +1,7 @@
 # School_District_Analysis
 ## Overview
 ### Purpose
-The purpose of this analysis was to replace the math and reading scores of ninth graders of Thomas High School (THS) with "NaNs," due to dishonesty with the school's grade reporting. After the scores were replaced, the next goal of the analysis was to perform anaother analysis of the data to show how the changes affedcted the overall analysis. 
+The purpose of this analysis was to replace the math and reading scores of ninth graders of Thomas High School (THS) with "NaNs," due to dishonesty with the school's grade reporting. After the scores were replaced, the next goal of the analysis was to perform another analysis of the data to show how the changes affedcted the overall analysis. 
 
 ## Resources
   ### Data Tools and Resources
